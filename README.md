@@ -12,11 +12,15 @@ To build a model that accurately detects fraudulent transactions from a given da
 
 ## 📁 Dataset
 
-- **File**: `creditcard.csv`
+- **File**: [`creditcard.csv`](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Rows**: 284,807 transactions
 - **Features**: 30 (anonymized due to confidentiality)
 - **Target**: `Class` (0 = Legitimate, 1 = Fraud)
-- **Link**:  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- Source: European cardholders (September 2013)
+- Highly imbalanced data
+- The dataset used in this project is available on Kaggle:
+
+  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
