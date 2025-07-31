@@ -16,7 +16,7 @@ To build a model that accurately detects fraudulent transactions from a given da
 - **Rows**: 284,807 transactions
 - **Features**: 30 (anonymized due to confidentiality)
 - **Target**: `Class` (0 = Legitimate, 1 = Fraud)
-- Source: European cardholders (September 2013)
+- **Source**: European cardholders (September 2013)
 - Highly imbalanced data
 - The dataset used in this project is available on Kaggle:
 
