@@ -96,6 +96,6 @@ Raj Prajapati
 
 ---
 
-## 📜 License
+## 📜 License[(MIT)](LICENSE)
 
 This project is licensed for educational and non-commercial use.
